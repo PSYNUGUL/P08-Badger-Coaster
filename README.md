@@ -1,4 +1,4 @@
-# P08-Badger-Coaster
+# Roller-Coaster-Line
 `Queue ADT 도입, txt파일을 읽어와서 테스트`
 
 ## 롤러코스터 대기줄 구현화
